@@ -6,6 +6,8 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(255,160,240);
+background: linear-gradient(135deg, rgba(255,160,240,1) 0%, rgba(176,173,255,0.8239670868347339) 50%, rgba(173,241,255,1) 100%);
 }
 
 body {
